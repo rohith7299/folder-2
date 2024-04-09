@@ -1,4 +1,4 @@
-class basic{//basic is the function name
+    class basic{//basic is the function name
     f1(){//f1 is function name 
         console.log('hello');
     }
