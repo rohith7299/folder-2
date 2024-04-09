@@ -11,3 +11,5 @@
 let call = new basic();//selcet the class
 
 call.f1();//call f1 function
+
+//ended
